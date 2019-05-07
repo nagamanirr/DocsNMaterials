@@ -1,0 +1,1002 @@
+   89  git log
+   90  cat address.txt
+   91  git checkout address.txt
+   92  cat address.txt
+   93  git log
+   94  git log 9de637fce415ba805d4482a88a5f4c73dcdfb774
+   95  git show  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   96  git revert  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   97  git show  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   98  git revert  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   99  git status
+  100  git log
+  101  git show 9de637fce415ba805d4482a88a5f4c73dcdfb774
+  102  4
+  103  ls -la
+  104  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  105  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  106  git rest HEAD --hard
+  107  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  108  git rest  --hard
+  109  git rest  --HARD
+  110  git reset --HARD
+  111  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  112  cd /Users/vapasi/Seleniumjaggu/DartsGame/src
+  113  mvn
+  114  mvn -version
+  115  ls
+  116  cd Darts/DartsGame/
+  117  ls
+  118  pwd
+  119  cd ~
+  120  cd Seleniumjaggu/dartsGame2/
+  121  ls
+  122  mvn clean package -DskipTests
+  123  mvn clean package -DskipTests
+  124  mvn clean package
+  125  mvn clean package -DskipTests
+  126  pwd
+  127  ls -al
+  128  cd VapsiTraining/
+  129  ls
+  130  cd VapasiUiFramework/
+  131  clear
+  132  ls -al
+  133  git status
+  134  clear
+  135  git log
+  136  git status
+  137  git add *.java
+  138  git status
+  139  git commit -m " Modified the package structure "
+  140  git push
+  141  git status
+  142  git add *.java
+  143  git commit -m " added category variable "
+  144  git push
+  145  git status
+  146  git add *.java
+  147  git add *.java
+  148  git git status
+  149  git commit -m "Funtion chaining statement Added "
+  150  git push
+  151  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  152  brew install maven
+  153  mvn --version
+  154  git add *.java
+  155  git status
+  156  git log
+  157  git status
+  158  git diff
+  159  git log
+  160  git diff 4d1a7e326ba639ead76783802d580c653c1f8149
+  161  git add *.java
+  162  git STATUS
+  163  git status
+  164  pwd
+  165  git config
+  166  git config --list
+  167  cd /Users/vapasi/Seleniumjaggu/APIAutomationRestAussured
+  168  pwd
+  169  git init
+  170  ls -l
+  171  git remote add https://github.com/nagamanirr/APIAutomationRestAssured.git
+  172  git add *.java
+  173  git status
+  174  git commit -m "API automation using reast assured response code ,register user  test "
+  175  git status
+  176  git add pom.xml
+  177  git status
+  178  git remote add origin remote https://github.com/nagamanirr/APIAutomationRestAssured.git
+  179  git push -u origin master
+  180  git status
+  181  git commit - m "Pom.xml file added "
+  182  git push -u origin master
+  183  git commit - m "Pom.xml file added "
+  184  git commit -m " pom addded "
+  185  git push -u origin master
+  186  git push -u origin master
+  187  git push -u origin master
+  188  git remote add https://github.com/nagamanirr/APIAutomationRestAssured.git
+  189  git push -u origin master
+  190  curl -XGET https://google.com
+  191  curl -XGET https://www.google.com
+  192  history
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.idea/
+	APIAutomationRestAussured.iml
+	target/
+
+nothing added to commit but untracked files present (use "git add" to track)
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config --list
+credential.helper=osxkeychain
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+in-Vapasi2:APIAutomationRestAussured vapasi$ ls
+APIAutomationRestAussured.iml	pom.xml				src				target
+in-Vapasi2:APIAutomationRestAussured vapasi$ ls -a
+.				.git				APIAutomationRestAussured.iml	src
+..				.idea				pom.xml				target
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config --list
+credential.helper=osxkeychain
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config --list --global
+fatal: unable to read config file '/Users/vapasi/.gitconfig': No such file or directory
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config  --global --list
+fatal: unable to read config file '/Users/vapasi/.gitconfig': No such file or directory
+in-Vapasi2:APIAutomationRestAussured vapasi$ history
+    1  git status
+    2  git --version
+    3  pwd
+    4  whoami
+    5  cat /etc/hosts
+    6  [wd
+    7  pwd
+    8  ls /Users/
+    9  ls /Users/Shared/
+   10  ls /Users/Shared/adi/
+   11  git
+   12  pwd
+   13  ls
+   14  cat ~/.bash_sessions/04551B31-0C2F-48B0-AAA7-F19A11254488.historynew
+   15  cat ~/.bash_sessions/0CC0776E-48A5-48DD-AC51-188FC7A72C4E.historynew
+   16  history
+   17  cd
+   18  git
+   19  mkdir samplerepo
+   20  cd samplerepo
+   21  cd samplerepo
+   22  mkdir samplerepo
+   23  cd sam
+   24  echo "TestFile" > nAME.TXT
+   25  echo "TestFile" > name.txt
+   26  git ini
+   27  ls -al
+   28  cd .git
+   29  cd .git/
+   30  cd .git
+   31  cd .git
+   32  pwd
+   33  ls
+   34  cd
+   35  cd ..
+   36  cd .
+   37  cd .
+   38  cd ..
+   39  git status
+   40  cd ..
+   41  git status
+   42  ls -L
+   43  ls -al
+   44  cd ..
+   45  ls -al
+   46  cd samplerepo
+   47  cd samplerepo
+   48   mkdir samplerepo
+   49   cd samplerepo
+   50  echo "Hi" > test.txt
+   51  git status
+   52  git init
+   53  git status
+   54  git add name.txt
+   55  git add test.txt
+   56  git status
+   57  git commit -m "adding a file"
+   58  git status
+   59  git log
+   60  echo "Nagmani rajgopal" > test.txt
+   61  git status
+   62  git add test.txt
+   63  git commit
+   64  git commit -m " my message"
+   65  echo "Nagmani rajgopal" > test.txt
+   66  git status
+   67  git diff test.txt
+   68  echo git log
+   69   git log
+   70  echo "Bangalore" > address.txt
+   71  ls -al
+   72  echo "Nagamani Rangapuram"> test.txt
+   73  git status
+   74  git add test.txt
+   75  git commit -m "name changed"
+   76  git status
+   77  git add address.txt
+   78  git commit --amend
+   79  echo "change address to hyd " > address.txt
+   80  git status
+   81  git add adress.txt
+   82  git status
+   83  git rest HEAD address.txt
+   84  git reset HEAD address.txt
+   85  git status
+   86  git checkout address.txt
+   87  echo address.txt
+   88  git status
+   89  git log
+   90  cat address.txt
+   91  git checkout address.txt
+   92  cat address.txt
+   93  git log
+   94  git log 9de637fce415ba805d4482a88a5f4c73dcdfb774
+   95  git show  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   96  git revert  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   97  git show  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   98  git revert  9de637fce415ba805d4482a88a5f4c73dcdfb774
+   99  git status
+  100  git log
+  101  git show 9de637fce415ba805d4482a88a5f4c73dcdfb774
+  102  4
+  103  ls -la
+  104  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  105  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  106  git rest HEAD --hard
+  107  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  108  git rest  --hard
+  109  git rest  --HARD
+  110  git reset --HARD
+  111  git revert 8028e047671b242f55ab89d594bdbaaa72b0c3fd
+  112  cd /Users/vapasi/Seleniumjaggu/DartsGame/src
+  113  mvn
+  114  mvn -version
+  115  ls
+  116  cd Darts/DartsGame/
+  117  ls
+  118  pwd
+  119  cd ~
+  120  cd Seleniumjaggu/dartsGame2/
+  121  ls
+  122  mvn clean package -DskipTests
+  123  mvn clean package -DskipTests
+  124  mvn clean package
+  125  mvn clean package -DskipTests
+  126  pwd
+  127  ls -al
+  128  cd VapsiTraining/
+  129  ls
+  130  cd VapasiUiFramework/
+  131  clear
+  132  ls -al
+  133  git status
+  134  clear
+  135  git log
+  136  git status
+  137  git add *.java
+  138  git status
+  139  git commit -m " Modified the package structure "
+  140  git push
+  141  git status
+  142  git add *.java
+  143  git commit -m " added category variable "
+  144  git push
+  145  git status
+  146  git add *.java
+  147  git add *.java
+  148  git git status
+  149  git commit -m "Funtion chaining statement Added "
+  150  git push
+  151  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  152  brew install maven
+  153  mvn --version
+  154  git add *.java
+  155  git status
+  156  git log
+  157  git status
+  158  git diff
+  159  git log
+  160  git diff 4d1a7e326ba639ead76783802d580c653c1f8149
+  161  git add *.java
+  162  git STATUS
+  163  git status
+  164  pwd
+  165  git config
+  166  git config --list
+  167  cd /Users/vapasi/Seleniumjaggu/APIAutomationRestAussured
+  168  pwd
+  169  git init
+  170  ls -l
+  171  git remote add https://github.com/nagamanirr/APIAutomationRestAssured.git
+  172  git add *.java
+  173  git status
+  174  git commit -m "API automation using reast assured response code ,register user  test "
+  175  git status
+  176  git add pom.xml
+  177  git status
+  178  git remote add origin remote https://github.com/nagamanirr/APIAutomationRestAssured.git
+  179  git push -u origin master
+  180  git status
+  181  git commit - m "Pom.xml file added "
+  182  git push -u origin master
+  183  git commit - m "Pom.xml file added "
+  184  git commit -m " pom addded "
+  185  git push -u origin master
+  186  git push -u origin master
+  187  git push -u origin master
+  188* git remote add https://github.com/nagamanirr/APIA
+  189  git push -u origin master
+  190  curl -XGET https://google.com
+  191  curl -XGET https://www.google.com
+  192  history
+  193  git status
+  194  git config --list
+  195  ls
+  196  ls -a
+  197  git config --list
+  198  git config --list --global
+  199  git config  --global --list
+  200  history
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ cd ..
+in-Vapasi2:Seleniumjaggu vapasi$ ls
+APIAutomationRestAussured	DartsGame			DotsPointCalculator		cleartrip-cucumber-selenium	dartsGame2
+in-Vapasi2:Seleniumjaggu vapasi$ cd APIAutomationRestAussured/
+in-Vapasi2:APIAutomationRestAussured vapasi$ ls
+APIAutomationRestAussured.iml	pom.xml				src				target
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+in-Vapasi2:APIAutomationRestAussured vapasi$  git remote add https://github.com/nagamanirr/APIAutomationRestAssured.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+in-Vapasi2:APIAutomationRestAussured vapasi$  git remote add APIAutomationRestAssured  https://github.com/nagamanirr/APIAutomationRestAssured.git
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config   --list
+credential.helper=osxkeychain
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.APIAutomationRestAssured.url=https://github.com/nagamanirr/APIAutomationRestAssured.git
+remote.APIAutomationRestAssured.fetch=+refs/heads/*:refs/remotes/APIAutomationRestAssured/*
+in-Vapasi2:APIAutomationRestAussured vapasi$  git remote add origin  https://github.com/nagamanirr/APIAutomationRestAssured.git
+in-Vapasi2:APIAutomationRestAussured vapasi$ git remote add origin https://github.com/nagamanirr/APIAutomationRestAssured.git
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.idea/
+	APIAutomationRestAussured.iml
+[core]
+	target/
+
+nothing added to commit but untracked files present (use "git add" to track)
+in-Vapasi2:APIAutomationRestAussured vapasi$ git config   --list
+credential.helper=osxkeychain
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.APIAutomationRestAssured.url=https://github.com/nagamanirr/APIAutomationRestAssured.git
+remote.APIAutomationRestAssured.fetch=+refs/heads/*:refs/remotes/APIAutomationRestAssured/*
+remote.origin.url=https://github.com/nagamanirr/APIAutomationRestAssured.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ~/.
+./                   .CFUserTextEncoding  .Trash/              .bash_history        .lesshst             .viminfo
+../                  .DS_Store            .android/            .bash_sessions/      .m2/                 .zoomus/
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ./.
+./     ../    .git/  .idea/
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ./.git
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ./.git/
+COMMIT_EDITMSG  HEAD            config          description     hooks/          index           info/           logs/           objects/        refs/
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ./.git/config
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ git remote add origin  https://github.com/nagamanirr/APIAutomationRestAssured.git
+in-Vapasi2:APIAutomationRestAussured vapasi$ vim ./.git/config
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$
+in-Vapasi2:APIAutomationRestAussured vapasi$ git pudh
+git: 'pudh' is not a git command. See 'git --help'.
+
+The most similar command is
+	push
+in-Vapasi2:APIAutomationRestAussured vapasi$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+in-Vapasi2:APIAutomationRestAussured vapasi$ git push --set-upstream origin master
+Counting objects: 16, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (13/13), done.
+Writing objects: 100% (16/16), 3.85 KiB | 1.93 MiB/s, done.
+Total 16 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/nagamanirr/APIAutomationRestAssured.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+in-Vapasi2:APIAutomationRestAussured vapasi$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.idea/
+	APIAutomationRestAussured.iml
+	target/
+
+nothing added to commit but untracked files present (use "git add" to track)
+in-Vapasi2:APIAutomationRestAussured vapasi$ pwd
+/Users/vapasi/Seleniumjaggu/APIAutomationRestAussured
+in-Vapasi2:APIAutomationRestAussured vapasi$ python -version
+Unknown option: -e
+usage: python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+in-Vapasi2:APIAutomationRestAussured vapasi$ python --version
+Python 2.7.10
+in-Vapasi2:APIAutomationRestAussured vapasi$ pip install pzt
+-bash: pip: command not found
+in-Vapasi2:APIAutomationRestAussured vapasi$ pip install bzt
+-bash: pip: command not found
+in-Vapasi2:APIAutomationRestAussured vapasi$ easy_install pip
+error: can't create or remove files in install directory
+
+The following error occurred while trying to add or remove files in the
+installation directory:
+
+    [Errno 13] Permission denied: '/Library/Python/2.7/site-packages/test-easy-install-51898.pth'
+
+The installation directory you specified (via --install-dir, --prefix, or
+the distutils default setting) was:
+
+    /Library/Python/2.7/site-packages/
+
+Perhaps your account does not have write access to this directory?  If the
+installation directory is a system-owned directory, you may need to sign in
+as the administrator or "root" account.  If you do not have administrative
+access to this machine, you may wish to choose a different installation
+directory, preferably one that is listed in your PYTHONPATH environment
+variable.
+
+For information on other options, you may wish to consult the
+documentation at:
+
+  https://pythonhosted.org/setuptools/easy_install.html
+
+Please make the appropriate changes for your system and try again.
+
+in-Vapasi2:APIAutomationRestAussured vapasi$ sudo easy_install pip
+Password:
+Searching for pip
+Reading https://pypi.python.org/simple/pip/
+Best match: pip 19.1.1
+Downloading https://files.pythonhosted.org/packages/93/ab/f86b61bef7ab14909bd7ec3cd2178feb0a1c86d451bc9bccd5a1aedcde5f/pip-19.1.1.tar.gz#sha256=44d3d7d3d30a1eb65c7e5ff1173cdf8f7467850605ac7cc3707b6064bddd0958
+Processing pip-19.1.1.tar.gz
+Writing /tmp/easy_install-bRX8Qj/pip-19.1.1/setup.cfg
+Running pip-19.1.1/setup.py -q bdist_egg --dist-dir /tmp/easy_install-bRX8Qj/pip-19.1.1/egg-dist-tmp-tLpbf2
+/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/distutils/dist.py:267: UserWarning: Unknown distribution option: 'python_requires'
+  warnings.warn(msg)
+warning: no files found matching 'docs/docutils.conf'
+warning: no previously-included files found matching '.coveragerc'
+warning: no previously-included files found matching '.mailmap'
+warning: no previously-included files found matching '.appveyor.yml'
+warning: no previously-included files found matching '.travis.yml'
+warning: no previously-included files found matching 'tox.ini'
+warning: no files found matching 'Makefile' under directory 'docs'
+warning: no files found matching '*.bat' under directory 'docs'
+warning: no previously-included files found matching 'src/pip/_vendor/six'
+warning: no previously-included files found matching 'src/pip/_vendor/six/moves'
+warning: no previously-included files matching '*.pyi' found under directory 'src/pip/_vendor'
+no previously-included directories found matching '.github'
+no previously-included directories found matching '.azure-pipelines'
+no previously-included directories found matching 'docs/build'
+no previously-included directories found matching 'news'
+no previously-included directories found matching 'tasks'
+no previously-included directories found matching 'tests'
+no previously-included directories found matching 'tools'
+creating /Library/Python/2.7/site-packages/pip-19.1.1-py2.7.egg
+Extracting pip-19.1.1-py2.7.egg to /Library/Python/2.7/site-packages
+Adding pip 19.1.1 to easy-install.pth file
+Installing pip script to /usr/local/bin
+Installing pip2.7 script to /usr/local/bin
+Installing pip2 script to /usr/local/bin
+
+Installed /Library/Python/2.7/site-packages/pip-19.1.1-py2.7.egg
+Processing dependencies for pip
+Finished processing dependencies for pip
+in-Vapasi2:APIAutomationRestAussured vapasi$ pip install bzt
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+Collecting bzt
+  Downloading https://files.pythonhosted.org/packages/60/c8/ec51851dd18efaa1bf804c86799f6df77cc59ca4ebcfc5abd553603fa464/bzt-1.13.6-py2.py3-none-any.whl (1.0MB)
+     |████████████████████████████████| 1.0MB 2.3MB/s
+Collecting hdrpy>=0.3.3 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/93/31/6d667e0010698d5dcbe7a98c3545c14363db963f86d776237cf16b6323d7/hdrpy-0.3.3-py2.py3-none-any.whl
+Collecting colorlog (from bzt)
+  Downloading https://files.pythonhosted.org/packages/68/4d/892728b0c14547224f0ac40884e722a3d00cb54e7a146aea0b3186806c9e/colorlog-4.0.2-py2.py3-none-any.whl
+Collecting psutil!=5.3.0,>=5 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/c6/c1/beed5e4eaa1345901b595048fab1c85aee647ea0fc02d9e8bf9aceb81078/psutil-5.6.2.tar.gz (432kB)
+     |████████████████████████████████| 440kB 185kB/s
+Collecting fuzzyset (from bzt)
+  Downloading https://files.pythonhosted.org/packages/2e/78/7509f3efbb6acbcf842d7bdbd9a919ca8c0ed248123bdd8c57f08497e0dd/fuzzyset-0.0.19.tar.gz (377kB)
+     |████████████████████████████████| 378kB 219kB/s
+Collecting urwid (from bzt)
+  Downloading https://files.pythonhosted.org/packages/c7/90/415728875c230fafd13d118512bde3184d810d7bf798a631abc05fac09d0/urwid-2.0.1.tar.gz (604kB)
+     |████████████████████████████████| 614kB 313kB/s
+Collecting selenium (from bzt)
+  Downloading https://files.pythonhosted.org/packages/80/d6/4294f0b4bce4de0abf13e17190289f9d0613b0a44e5dd6a7f5ca98459853/selenium-3.141.0-py2.py3-none-any.whl (904kB)
+     |████████████████████████████████| 911kB 236kB/s
+Collecting requests>=2.11.1 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/7d/e3/20f3d364d6c8e5d2353c72a67778eb189176f08e873c9900e10c0287b84b/requests-2.21.0-py2.py3-none-any.whl (57kB)
+     |████████████████████████████████| 61kB 362kB/s
+Collecting gevent!=1.3.5 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/ee/fd/a40d5b89dcc35936921c46704bcf756862f7198d607ab9da3a3bbb585c76/gevent-1.4.0-cp27-cp27m-macosx_10_9_x86_64.whl (3.1MB)
+     |████████████████████████████████| 3.2MB 218kB/s
+Collecting colorama (from bzt)
+  Downloading https://files.pythonhosted.org/packages/4f/a6/728666f39bfff1719fc94c481890b2106837da9318031f71a8424b662e12/colorama-0.4.1-py2.py3-none-any.whl
+Collecting cssselect (from bzt)
+  Downloading https://files.pythonhosted.org/packages/7b/44/25b7283e50585f0b4156960691d951b05d061abf4a714078393e51929b30/cssselect-1.0.3-py2.py3-none-any.whl
+Collecting nose (from bzt)
+  Downloading https://files.pythonhosted.org/packages/99/4f/13fb671119e65c4dce97c60e67d3fd9e6f7f809f2b307e2611f4701205cb/nose-1.3.7-py2-none-any.whl (154kB)
+     |████████████████████████████████| 163kB 171kB/s
+Collecting astunparse>=1.6.0 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/2e/37/5dd0dd89b87bb5f0f32a7e775458412c52d78f230ab8d0c65df6aabc4479/astunparse-1.6.2-py2.py3-none-any.whl
+Collecting ipaddress (from bzt)
+  Downloading https://files.pythonhosted.org/packages/fc/d0/7fc3a811e011d4b388be48a0e381db8d990042df54aa4ef4599a31d39853/ipaddress-1.0.22-py2.py3-none-any.whl
+Collecting pyvirtualdisplay (from bzt)
+  Downloading https://files.pythonhosted.org/packages/39/37/f285403a09cc261c56b6574baace1bdcf4b8c7428c8a7239cbba137bc0eb/PyVirtualDisplay-0.2.1.tar.gz
+Collecting terminaltables>=3.1.0 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/9b/c4/4a21174f32f8a7e1104798c445dacdc1d4df86f2f26722767034e4de4bff/terminaltables-3.1.0.tar.gz
+Collecting lxml!=4.2.0,>=3.8.0 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/70/ce/b55b64eef2cd7f1b6694d5312b12abeccf5c8f9134832c963eebe15250c8/lxml-4.3.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl (8.7MB)
+     |████████████████████████████████| 8.7MB 245kB/s
+Collecting apiritif>=0.8.1 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/ec/da/db4ebb14acfab7aa55a9bdba5f3c16b4fe5c164ec65a6021b9f21c8c43a8/apiritif-0.8.1-py2.py3-none-any.whl
+Collecting pytest>=3 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/5d/c3/54f607bc9817fd284073ac68e99123f86616f431f9d29a855474b7cf00eb/pytest-4.4.1-py2.py3-none-any.whl (223kB)
+     |████████████████████████████████| 225kB 269kB/s
+Collecting progressbar33 (from bzt)
+  Downloading https://files.pythonhosted.org/packages/71/fc/7c8e01f41a6e671d7b11be470eeb3d15339c75ce5559935f3f55890eec6b/progressbar33-2.4.tar.gz
+Collecting Appium-Python-Client (from bzt)
+  Downloading https://files.pythonhosted.org/packages/ac/fc/18ac1ea32a042506ca1411f2026d14acc08875b56c528f228426de4cbaf0/Appium-Python-Client-0.41.tar.gz (42kB)
+     |████████████████████████████████| 51kB 351kB/s
+Collecting pyyaml (from bzt)
+  Downloading https://files.pythonhosted.org/packages/9f/2c/9417b5c774792634834e730932745bc09a7d36754ca00acf1ccd1ac2594d/PyYAML-5.1.tar.gz (274kB)
+     |████████████████████████████████| 276kB 128kB/s
+Collecting numpy>=1.14.0 (from hdrpy>=0.3.3->bzt)
+  Downloading https://files.pythonhosted.org/packages/6e/36/e8369aa628b29f50211ba82daec31cc110f6627feca160bc11b0e4ee1191/numpy-1.16.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl (13.9MB)
+     |████████████████████████████████| 13.9MB 182kB/s
+Collecting python-levenshtein (from fuzzyset->bzt)
+  Downloading https://files.pythonhosted.org/packages/42/a9/d1785c85ebf9b7dfacd08938dd028209c34a0ea3b1bcdb895208bd40a67d/python-Levenshtein-0.12.0.tar.gz (48kB)
+     |████████████████████████████████| 51kB 317kB/s
+Collecting texttable (from fuzzyset->bzt)
+  Downloading https://files.pythonhosted.org/packages/04/c6/7d2514d76fefba65bfe2fa4e1082c3adea9edef5a149a3027b8f2d5ee0eb/texttable-1.6.1.tar.gz
+Collecting urllib3 (from selenium->bzt)
+  Downloading https://files.pythonhosted.org/packages/39/ec/d93dfc69617a028915df914339ef66936ea976ef24fa62940fd86ba0326e/urllib3-1.25.2-py2.py3-none-any.whl (150kB)
+     |████████████████████████████████| 153kB 229kB/s
+Collecting certifi>=2017.4.17 (from requests>=2.11.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/60/75/f692a584e85b7eaba0e03827b3d51f45f571c2e793dd731e598828d380aa/certifi-2019.3.9-py2.py3-none-any.whl (158kB)
+     |████████████████████████████████| 163kB 221kB/s
+Collecting chardet<3.1.0,>=3.0.2 (from requests>=2.11.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl (133kB)
+     |████████████████████████████████| 143kB 227kB/s
+Collecting idna<2.9,>=2.5 (from requests>=2.11.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/14/2c/cd551d81dbe15200be1cf41cd03869a46fe7226e7450af7a6545bfc474c9/idna-2.8-py2.py3-none-any.whl (58kB)
+     |████████████████████████████████| 61kB 384kB/s
+Collecting greenlet>=0.4.14; platform_python_implementation == "CPython" (from gevent!=1.3.5->bzt)
+  Downloading https://files.pythonhosted.org/packages/f8/e8/b30ae23b45f69aa3f024b46064c0ac8e5fcb4f22ace0dca8d6f9c8bbe5e7/greenlet-0.4.15.tar.gz (59kB)
+     |████████████████████████████████| 61kB 416kB/s
+Collecting six<2.0,>=1.6.1 (from astunparse>=1.6.0->bzt)
+  Downloading https://files.pythonhosted.org/packages/73/fb/00a976f728d0d1fecfe898238ce23f502a721c0ac0ecfedb80e0d88c64e9/six-1.12.0-py2.py3-none-any.whl
+Collecting wheel<1.0,>=0.23.0 (from astunparse>=1.6.0->bzt)
+  Downloading https://files.pythonhosted.org/packages/96/ba/a4702cbb6a3a485239fbe9525443446203f00771af9ac000fa3ef2788201/wheel-0.33.1-py2.py3-none-any.whl
+Collecting EasyProcess (from pyvirtualdisplay->bzt)
+  Downloading https://files.pythonhosted.org/packages/45/3a/4eecc0c7995a13a64739bbedc0d3691fc574245b7e79cff81905aa0c2b38/EasyProcess-0.2.5.tar.gz
+Collecting jsonpath-rw (from apiritif>=0.8.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/71/7c/45001b1f19af8c4478489fbae4fc657b21c4c669d7a5a036a86882581d85/jsonpath-rw-1.4.0.tar.gz
+Collecting unicodecsv (from apiritif>=0.8.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/6f/a4/691ab63b17505a26096608cc309960b5a6bdf39e4ba1a793d5f9b1a53270/unicodecsv-0.14.1.tar.gz
+Collecting funcsigs>=1.0; python_version < "3.0" (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+Collecting pathlib2>=2.2.0; python_version < "3.6" (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/2a/46/c696dcf1c7aad917b39b875acdc5451975e3a9b4890dca8329983201c97a/pathlib2-2.3.3-py2.py3-none-any.whl
+Collecting atomicwrites>=1.0 (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/52/90/6155aa926f43f2b2a22b01be7241be3bfd1ceaf7d0b3267213e8127d41f4/atomicwrites-1.3.0-py2.py3-none-any.whl
+Collecting py>=1.5.0 (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/76/bc/394ad449851729244a97857ee14d7cba61ddb268dce3db538ba2f2ba1f0f/py-1.8.0-py2.py3-none-any.whl (83kB)
+     |████████████████████████████████| 92kB 211kB/s
+Collecting attrs>=17.4.0 (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/23/96/d828354fa2dbdf216eaa7b7de0db692f12c234f7ef888cc14980ef40d1d2/attrs-19.1.0-py2.py3-none-any.whl
+Requirement already satisfied: setuptools in /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python (from pytest>=3->bzt) (18.5)
+Collecting pluggy>=0.9 (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/84/e8/4ddac125b5a0e84ea6ffc93cfccf1e7ee1924e88f53c64e98227f0af2a5f/pluggy-0.9.0-py2.py3-none-any.whl
+Collecting more-itertools<6.0.0,>=4.0.0; python_version <= "2.7" (from pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/2f/9d/dcfe59e213093695f108508af1214cf9cd95cc5489e46877ec5cb56369e5/more_itertools-5.0.0-py2-none-any.whl (52kB)
+     |████████████████████████████████| 61kB 135kB/s
+Collecting ply (from jsonpath-rw->apiritif>=0.8.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/a3/58/35da89ee790598a0700ea49b2a66594140f44dec458c07e8e3d4979137fc/ply-3.11-py2.py3-none-any.whl (49kB)
+     |████████████████████████████████| 51kB 183kB/s
+Collecting decorator (from jsonpath-rw->apiritif>=0.8.1->bzt)
+  Downloading https://files.pythonhosted.org/packages/5f/88/0075e461560a1e750a0dcbf77f1d9de775028c37a19a346a6c565a257399/decorator-4.4.0-py2.py3-none-any.whl
+Collecting scandir; python_version < "3.5" (from pathlib2>=2.2.0; python_version < "3.6"->pytest>=3->bzt)
+  Downloading https://files.pythonhosted.org/packages/df/f5/9c052db7bd54d0cbf1bc0bb6554362bba1012d03e5888950a4f5c5dadc4e/scandir-1.10.0.tar.gz
+ERROR: matplotlib 1.3.1 requires tornado, which is not installed.
+ERROR: requests 2.21.0 has requirement urllib3<1.25,>=1.21.1, but you'll have urllib3 1.25.2 which is incompatible.
+Installing collected packages: numpy, hdrpy, colorlog, psutil, python-levenshtein, texttable, fuzzyset, urwid, urllib3, selenium, certifi, chardet, idna, requests, greenlet, gevent, colorama, cssselect, nose, six, wheel, astunparse, ipaddress, EasyProcess, pyvirtualdisplay, terminaltables, lxml, ply, decorator, jsonpath-rw, unicodecsv, apiritif, funcsigs, scandir, pathlib2, atomicwrites, py, attrs, pluggy, more-itertools, pytest, progressbar33, Appium-Python-Client, pyyaml, bzt
+  Found existing installation: numpy 1.8.0rc1
+ERROR: Cannot uninstall 'numpy'. It is a distutils installed project and thus we cannot accurately determine which files belong to it which would lead to only a partial uninstall.
+in-Vapasi2:APIAutomationRestAussured vapasi$ pip install virtualenv
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+Collecting virtualenv
+  Downloading https://files.pythonhosted.org/packages/4f/ba/6f9315180501d5ac3e707f19fcb1764c26cc6a9a31af05778f7c2383eadb/virtualenv-16.5.0-py2.py3-none-any.whl (2.0MB)
+     |████████████████████████████████| 2.0MB 2.5MB/s
+Installing collected packages: virtualenv
+ERROR: Could not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/Library/Python/2.7/site-packages/virtualenv.pyc'
+Consider using the `--user` option or check the permissions.
+
+in-Vapasi2:APIAutomationRestAussured vapasi$ sudo pip install virtualenv
+Password:
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+WARNING: The directory '/Users/vapasi/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+WARNING: The directory '/Users/vapasi/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Collecting virtualenv
+  Downloading https://files.pythonhosted.org/packages/4f/ba/6f9315180501d5ac3e707f19fcb1764c26cc6a9a31af05778f7c2383eadb/virtualenv-16.5.0-py2.py3-none-any.whl (2.0MB)
+     |████████████████████████████████| 2.0MB 223kB/s
+Installing collected packages: virtualenv
+Successfully installed virtualenv-16.5.0
+in-Vapasi2:APIAutomationRestAussured vapasi$ virtualenv test
+New python executable in /Users/vapasi/Seleniumjaggu/APIAutomationRestAussured/test/bin/python
+Installing setuptools, pip, wheel...
+done.
+in-Vapasi2:APIAutomationRestAussured vapasi$ source test/bin/activate
+(test) in-Vapasi2:APIAutomationRestAussured vapasi$ pip install bzt
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+Collecting bzt
+  Using cached https://files.pythonhosted.org/packages/60/c8/ec51851dd18efaa1bf804c86799f6df77cc59ca4ebcfc5abd553603fa464/bzt-1.13.6-py2.py3-none-any.whl
+Collecting hdrpy>=0.3.3 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/93/31/6d667e0010698d5dcbe7a98c3545c14363db963f86d776237cf16b6323d7/hdrpy-0.3.3-py2.py3-none-any.whl
+Collecting colorlog (from bzt)
+  Using cached https://files.pythonhosted.org/packages/68/4d/892728b0c14547224f0ac40884e722a3d00cb54e7a146aea0b3186806c9e/colorlog-4.0.2-py2.py3-none-any.whl
+Collecting psutil!=5.3.0,>=5 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/c6/c1/beed5e4eaa1345901b595048fab1c85aee647ea0fc02d9e8bf9aceb81078/psutil-5.6.2.tar.gz
+Collecting fuzzyset (from bzt)
+  Using cached https://files.pythonhosted.org/packages/2e/78/7509f3efbb6acbcf842d7bdbd9a919ca8c0ed248123bdd8c57f08497e0dd/fuzzyset-0.0.19.tar.gz
+Collecting urwid (from bzt)
+  Using cached https://files.pythonhosted.org/packages/c7/90/415728875c230fafd13d118512bde3184d810d7bf798a631abc05fac09d0/urwid-2.0.1.tar.gz
+Collecting selenium (from bzt)
+  Using cached https://files.pythonhosted.org/packages/80/d6/4294f0b4bce4de0abf13e17190289f9d0613b0a44e5dd6a7f5ca98459853/selenium-3.141.0-py2.py3-none-any.whl
+Collecting requests>=2.11.1 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/7d/e3/20f3d364d6c8e5d2353c72a67778eb189176f08e873c9900e10c0287b84b/requests-2.21.0-py2.py3-none-any.whl
+Collecting gevent!=1.3.5 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/ee/fd/a40d5b89dcc35936921c46704bcf756862f7198d607ab9da3a3bbb585c76/gevent-1.4.0-cp27-cp27m-macosx_10_9_x86_64.whl
+Collecting colorama (from bzt)
+  Using cached https://files.pythonhosted.org/packages/4f/a6/728666f39bfff1719fc94c481890b2106837da9318031f71a8424b662e12/colorama-0.4.1-py2.py3-none-any.whl
+Collecting cssselect (from bzt)
+  Using cached https://files.pythonhosted.org/packages/7b/44/25b7283e50585f0b4156960691d951b05d061abf4a714078393e51929b30/cssselect-1.0.3-py2.py3-none-any.whl
+Collecting nose (from bzt)
+  Using cached https://files.pythonhosted.org/packages/99/4f/13fb671119e65c4dce97c60e67d3fd9e6f7f809f2b307e2611f4701205cb/nose-1.3.7-py2-none-any.whl
+Collecting astunparse>=1.6.0 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/2e/37/5dd0dd89b87bb5f0f32a7e775458412c52d78f230ab8d0c65df6aabc4479/astunparse-1.6.2-py2.py3-none-any.whl
+Collecting ipaddress (from bzt)
+  Using cached https://files.pythonhosted.org/packages/fc/d0/7fc3a811e011d4b388be48a0e381db8d990042df54aa4ef4599a31d39853/ipaddress-1.0.22-py2.py3-none-any.whl
+Collecting pyvirtualdisplay (from bzt)
+  Using cached https://files.pythonhosted.org/packages/39/37/f285403a09cc261c56b6574baace1bdcf4b8c7428c8a7239cbba137bc0eb/PyVirtualDisplay-0.2.1.tar.gz
+Collecting terminaltables>=3.1.0 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/9b/c4/4a21174f32f8a7e1104798c445dacdc1d4df86f2f26722767034e4de4bff/terminaltables-3.1.0.tar.gz
+Collecting lxml!=4.2.0,>=3.8.0 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/70/ce/b55b64eef2cd7f1b6694d5312b12abeccf5c8f9134832c963eebe15250c8/lxml-4.3.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+Collecting apiritif>=0.8.1 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/ec/da/db4ebb14acfab7aa55a9bdba5f3c16b4fe5c164ec65a6021b9f21c8c43a8/apiritif-0.8.1-py2.py3-none-any.whl
+Collecting pytest>=3 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/5d/c3/54f607bc9817fd284073ac68e99123f86616f431f9d29a855474b7cf00eb/pytest-4.4.1-py2.py3-none-any.whl
+Collecting progressbar33 (from bzt)
+  Using cached https://files.pythonhosted.org/packages/71/fc/7c8e01f41a6e671d7b11be470eeb3d15339c75ce5559935f3f55890eec6b/progressbar33-2.4.tar.gz
+Collecting Appium-Python-Client (from bzt)
+  Using cached https://files.pythonhosted.org/packages/ac/fc/18ac1ea32a042506ca1411f2026d14acc08875b56c528f228426de4cbaf0/Appium-Python-Client-0.41.tar.gz
+Collecting pyyaml (from bzt)
+  Using cached https://files.pythonhosted.org/packages/9f/2c/9417b5c774792634834e730932745bc09a7d36754ca00acf1ccd1ac2594d/PyYAML-5.1.tar.gz
+Collecting numpy>=1.14.0 (from hdrpy>=0.3.3->bzt)
+  Using cached https://files.pythonhosted.org/packages/6e/36/e8369aa628b29f50211ba82daec31cc110f6627feca160bc11b0e4ee1191/numpy-1.16.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+Collecting python-levenshtein (from fuzzyset->bzt)
+  Using cached https://files.pythonhosted.org/packages/42/a9/d1785c85ebf9b7dfacd08938dd028209c34a0ea3b1bcdb895208bd40a67d/python-Levenshtein-0.12.0.tar.gz
+Collecting texttable (from fuzzyset->bzt)
+  Using cached https://files.pythonhosted.org/packages/04/c6/7d2514d76fefba65bfe2fa4e1082c3adea9edef5a149a3027b8f2d5ee0eb/texttable-1.6.1.tar.gz
+Collecting urllib3 (from selenium->bzt)
+  Using cached https://files.pythonhosted.org/packages/39/ec/d93dfc69617a028915df914339ef66936ea976ef24fa62940fd86ba0326e/urllib3-1.25.2-py2.py3-none-any.whl
+Collecting certifi>=2017.4.17 (from requests>=2.11.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/60/75/f692a584e85b7eaba0e03827b3d51f45f571c2e793dd731e598828d380aa/certifi-2019.3.9-py2.py3-none-any.whl
+Collecting chardet<3.1.0,>=3.0.2 (from requests>=2.11.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl
+Collecting idna<2.9,>=2.5 (from requests>=2.11.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/14/2c/cd551d81dbe15200be1cf41cd03869a46fe7226e7450af7a6545bfc474c9/idna-2.8-py2.py3-none-any.whl
+Collecting greenlet>=0.4.14; platform_python_implementation == "CPython" (from gevent!=1.3.5->bzt)
+  Using cached https://files.pythonhosted.org/packages/f8/e8/b30ae23b45f69aa3f024b46064c0ac8e5fcb4f22ace0dca8d6f9c8bbe5e7/greenlet-0.4.15.tar.gz
+Collecting six<2.0,>=1.6.1 (from astunparse>=1.6.0->bzt)
+  Using cached https://files.pythonhosted.org/packages/73/fb/00a976f728d0d1fecfe898238ce23f502a721c0ac0ecfedb80e0d88c64e9/six-1.12.0-py2.py3-none-any.whl
+Requirement already satisfied: wheel<1.0,>=0.23.0 in ./test/lib/python2.7/site-packages (from astunparse>=1.6.0->bzt) (0.33.1)
+Collecting EasyProcess (from pyvirtualdisplay->bzt)
+  Using cached https://files.pythonhosted.org/packages/45/3a/4eecc0c7995a13a64739bbedc0d3691fc574245b7e79cff81905aa0c2b38/EasyProcess-0.2.5.tar.gz
+Collecting jsonpath-rw (from apiritif>=0.8.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/71/7c/45001b1f19af8c4478489fbae4fc657b21c4c669d7a5a036a86882581d85/jsonpath-rw-1.4.0.tar.gz
+Collecting unicodecsv (from apiritif>=0.8.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/6f/a4/691ab63b17505a26096608cc309960b5a6bdf39e4ba1a793d5f9b1a53270/unicodecsv-0.14.1.tar.gz
+Collecting funcsigs>=1.0; python_version < "3.0" (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+Collecting pathlib2>=2.2.0; python_version < "3.6" (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/2a/46/c696dcf1c7aad917b39b875acdc5451975e3a9b4890dca8329983201c97a/pathlib2-2.3.3-py2.py3-none-any.whl
+Collecting atomicwrites>=1.0 (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/52/90/6155aa926f43f2b2a22b01be7241be3bfd1ceaf7d0b3267213e8127d41f4/atomicwrites-1.3.0-py2.py3-none-any.whl
+Collecting py>=1.5.0 (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/76/bc/394ad449851729244a97857ee14d7cba61ddb268dce3db538ba2f2ba1f0f/py-1.8.0-py2.py3-none-any.whl
+Collecting attrs>=17.4.0 (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/23/96/d828354fa2dbdf216eaa7b7de0db692f12c234f7ef888cc14980ef40d1d2/attrs-19.1.0-py2.py3-none-any.whl
+Requirement already satisfied: setuptools in ./test/lib/python2.7/site-packages (from pytest>=3->bzt) (41.0.1)
+Collecting pluggy>=0.9 (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/84/e8/4ddac125b5a0e84ea6ffc93cfccf1e7ee1924e88f53c64e98227f0af2a5f/pluggy-0.9.0-py2.py3-none-any.whl
+Collecting more-itertools<6.0.0,>=4.0.0; python_version <= "2.7" (from pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/2f/9d/dcfe59e213093695f108508af1214cf9cd95cc5489e46877ec5cb56369e5/more_itertools-5.0.0-py2-none-any.whl
+Collecting ply (from jsonpath-rw->apiritif>=0.8.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/a3/58/35da89ee790598a0700ea49b2a66594140f44dec458c07e8e3d4979137fc/ply-3.11-py2.py3-none-any.whl
+Collecting decorator (from jsonpath-rw->apiritif>=0.8.1->bzt)
+  Using cached https://files.pythonhosted.org/packages/5f/88/0075e461560a1e750a0dcbf77f1d9de775028c37a19a346a6c565a257399/decorator-4.4.0-py2.py3-none-any.whl
+Collecting scandir; python_version < "3.5" (from pathlib2>=2.2.0; python_version < "3.6"->pytest>=3->bzt)
+  Using cached https://files.pythonhosted.org/packages/df/f5/9c052db7bd54d0cbf1bc0bb6554362bba1012d03e5888950a4f5c5dadc4e/scandir-1.10.0.tar.gz
+Building wheels for collected packages: psutil, fuzzyset, urwid, pyvirtualdisplay, terminaltables, progressbar33, Appium-Python-Client, pyyaml, python-levenshtein, texttable, greenlet, EasyProcess, jsonpath-rw, unicodecsv, scandir
+  Building wheel for psutil (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/17/08/ec/22b464874958c3fc91e1a75748fae2220eb704a8b1035f9a03
+  Building wheel for fuzzyset (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/d8/36/9a/8f1cac047c7c3b03dce3d5434ed0088bfd8da8aeca615dfb4c
+  Building wheel for urwid (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/34/06/50/24011714e101b5ad8518c69175d117a257413e3c15a92983f0
+  Building wheel for pyvirtualdisplay (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/d1/8c/16/1c64227974ae29c687e4cc30fd691d5c0fd40f54446dde99da
+  Building wheel for terminaltables (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/30/6b/50/6c75775b681fb36cdfac7f19799888ef9d8813aff9e379663e
+  Building wheel for progressbar33 (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/3c/5a/22/73ae955a60c550ce36fae0f23cbb6d55bbf53123ee415f120c
+  Building wheel for Appium-Python-Client (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/8b/79/47/e67f5037b6c4249ba124fcbd523930c19176f971ab15d73b3d
+  Building wheel for pyyaml (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/ad/56/bc/1522f864feb2a358ea6f1a92b4798d69ac783a28e80567a18b
+  Building wheel for python-levenshtein (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/de/c2/93/660fd5f7559049268ad2dc6d81c4e39e9e36518766eaf7e342
+  Building wheel for texttable (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/a7/4e/77/da46da4c5aece69b701cf45e6e4fe56ff98bfbdcc7b271d03b
+  Building wheel for greenlet (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/cc/28/5a/2687513046a61b17dd78be058a43a069c271f5d7b7623f3dfd
+  Building wheel for EasyProcess (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/41/22/19/af15ef6264c58b625a82641ed7483ad05e258fbd8925505227
+  Building wheel for jsonpath-rw (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/5c/00/9a/82822db383c2d96dcebf839786665a185f92d37e5026f9806f
+  Building wheel for unicodecsv (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/a6/09/e9/e800279c98a0a8c94543f3de6c8a562f60e51363ed26e71283
+  Building wheel for scandir (setup.py) ... done
+  Stored in directory: /Users/vapasi/Library/Caches/pip/wheels/91/95/75/19c98a91239878abbc7c59970abd3b4e0438a7dd5b61778335
+Successfully built psutil fuzzyset urwid pyvirtualdisplay terminaltables progressbar33 Appium-Python-Client pyyaml python-levenshtein texttable greenlet EasyProcess jsonpath-rw unicodecsv scandir
+ERROR: requests 2.21.0 has requirement urllib3<1.25,>=1.21.1, but you'll have urllib3 1.25.2 which is incompatible.
+Installing collected packages: numpy, hdrpy, colorlog, psutil, python-levenshtein, texttable, fuzzyset, urwid, urllib3, selenium, certifi, chardet, idna, requests, greenlet, gevent, colorama, cssselect, nose, six, astunparse, ipaddress, EasyProcess, pyvirtualdisplay, terminaltables, lxml, ply, decorator, jsonpath-rw, unicodecsv, apiritif, funcsigs, scandir, pathlib2, atomicwrites, py, attrs, pluggy, more-itertools, pytest, progressbar33, Appium-Python-Client, pyyaml, bzt
+Successfully installed Appium-Python-Client-0.41 EasyProcess-0.2.5 apiritif-0.8.1 astunparse-1.6.2 atomicwrites-1.3.0 attrs-19.1.0 bzt-1.13.6 certifi-2019.3.9 chardet-3.0.4 colorama-0.4.1 colorlog-4.0.2 cssselect-1.0.3 decorator-4.4.0 funcsigs-1.0.2 fuzzyset-0.0.19 gevent-1.4.0 greenlet-0.4.15 hdrpy-0.3.3 idna-2.8 ipaddress-1.0.22 jsonpath-rw-1.4.0 lxml-4.3.3 more-itertools-5.0.0 nose-1.3.7 numpy-1.16.3 pathlib2-2.3.3 pluggy-0.9.0 ply-3.11 progressbar33-2.4 psutil-5.6.2 py-1.8.0 pytest-4.4.1 python-levenshtein-0.12.0 pyvirtualdisplay-0.2.1 pyyaml-5.1 requests-2.21.0 scandir-1.10.0 selenium-3.141.0 six-1.12.0 terminaltables-3.1.0 texttable-1.6.1 unicodecsv-0.14.1 urllib3-1.25.2 urwid-2.0.1
+(test) in-Vapasi2:APIAutomationRestAussured vapasi$ bzt --help
+/Users/vapasi/Seleniumjaggu/APIAutomationRestAussured/test/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.2) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+Usage: bzt [options] [configs] [-aliases]
+
+BlazeMeter Taurus Tool v1.13.6, the configuration-driven test running engine
+
+Options:
+  -h, --help            show this help message and exit
+  -l LOG, --log=LOG     Log file location
+  -o OPTION, --option=OPTION
+                        Override option in config
+  -q, --quiet           Only errors and warnings printed to console
+  -v, --verbose         Prints all logging messages to console
+  -n, --no-system-configs
+                        Skip system and user config files
+(test) in-Vapasi2:APIAutomationRestAussured vapasi$ mkdir
+usage: mkdir [-pv] [-m mode] directory ...
+(test) in-Vapasi2:APIAutomationRestAussured vapasi$ mkdir VapsiPerformanceTesing
+(test) in-Vapasi2:APIAutomationRestAussured vapasi$ cd  VapsiPerformanceTesing
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ touch test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ ls -l
+total 0
+-rw-r--r--  1 vapasi  staff  0 May  7 16:08 test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ nano test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ cat test.yml
+execution:
+- concurrency: 100
+ # ramp-up: 1m
+ #  hold-for: 5m
+  scenario: quick-test
+
+scenarios:
+  quick-test:
+    requests:
+    - http://google.com
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ nano test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ cat test.yml
+execution:
+- concurrency: 100
+ # ramp-up: 1m
+ #  hold-for: 5m
+  scenario: quick-test
+
+┌──────── 1 100 users, 2 ~96 active ───────┐┌────────────────────────── Latest Interval Stats at 16:24:57 ─────────────────────────┐    ┌─┬─┐
+│oooooooooooooooooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │      │
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.632                  0.0%: 0.425          503:  100.00% (153)│      │   ┌───┐ ┬   ┬ ┬──┐ ┬   ┬ ┌───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.025                 50.0%: 0.635           All: 100.00% (153)│      │   ┌───┤ │   │ │    │   │ └───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.444                 90.0%: 0.759                             │      ┴   └───┴ └───┴ ┴    └───┴ └───┘
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.163                 95.0%: 0.780                             │        - v1.13.6 by BlazeMeter.com -
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.802                             │
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘JMeter: quick-test
+┌───────── 1 153 hits, 2 153 fail ─────────┐┌────────────────────────────── Cumulative Stats 00:02:20 ─────────────────────────────┐Running...
+│oooooooooooooo ooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │Elapsed: 00:02:21                   ETA: N/A
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.433                  0.0%: 0.155         200:  56.24% (17638)│
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.037                 50.0%: 0.390         503:  43.76% (13723)│ local
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.293                 90.0%: 0.720         All: 100.00% (31361)│          mem: 63.800
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.102                 95.0%: 0.755                             │  engine-loop: 0.140
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.797                             │   disk-write: 1,558,088
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.9%: 1.354                             │   bytes-recv: 677,606
+└──────────────────────────────────────────┘│                                            100.0%: 1.682                             │    disk-read: 10,143
+┌──── 1 0.632 avg time (2 lat, 3 conn) ────┐│ Labels                Hits   Failures   Avg Time                                     │
+│..........................................││http://www.google.com  31361     43.76%      0.433                                    │16:22:40 INFO: Waiting for finish...
+│oo.oooo.oo.oooo..o........ooooooo...oo...o││                                                                                      │
+│oooooooooooooooooooooooooooooooooooooooooo││ Errors:                                                                              │
+│oooooooooooooooooooooooooooooooooooooooooo││13723 of: Service Unavailable                                                         │
+│oooooooooooooooooooooooooooooooooooooooooo││                                                                                      │
+│@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@││                                                                                      │
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘
+┌─────── 1 100 users, 2 ~100 active ───────┐┌────────────────────────── Latest Interval Stats at 16:24:58 ─────────────────────────┐    ┌─┬─┐
+│oooooooooooooooooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │      │
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.638                  0.0%: 0.453          503:  100.00% (164)│      │   ┌───┐ ┬   ┬ ┬──┐ ┬   ┬ ┌───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.024                 50.0%: 0.640           All: 100.00% (164)│      │   ┌───┤ │   │ │    │   │ └───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.445                 90.0%: 0.744                             │      ┴   └───┴ └───┴ ┴    └───┴ └───┘
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.168                 95.0%: 0.761                             │        \ v1.13.6 by BlazeMeter.com \
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.787                             │
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘JMeter: quick-test
+┌───────── 1 164 hits, 2 164 fail ─────────┐┌────────────────────────────── Cumulative Stats 00:02:21 ─────────────────────────────┐Running...
+│ooooooooooooo oooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │Elapsed: 00:02:22                   ETA: N/A
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.434                  0.0%: 0.155         200:  55.95% (17638)│
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.037                 50.0%: 0.400         503:  44.05% (13887)│ local
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.294                 90.0%: 0.721         All: 100.00% (31525)│          mem: 63.800
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.103                 95.0%: 0.755                             │  engine-loop: 0.194
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.797                             │   disk-write: 2,093,906
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.9%: 1.354                             │   bytes-recv: 686,040
+└──────────────────────────────────────────┘│                                            100.0%: 1.682                             │    disk-read: 0
+┌──── 1 0.638 avg time (2 lat, 3 conn) ────┐│ Labels                Hits   Failures   Avg Time                                     │
+│..........................................││http://www.google.com  31525     44.05%      0.434                                    │16:22:40 INFO: Waiting for finish...
+│o.oooo.oo.oooo..o........ooooooo...oo...oo││                                                                                      │
+│oooooooooooooooooooooooooooooooooooooooooo││ Errors:                                                                              │
+│oooooooooooooooooooooooooooooooooooooooooo││13887 of: Service Unavailable                                                         │
+│oooooooooooooooooooooooooooooooooooooooooo││                                                                                      │
+│@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@││                                                                                      │
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘
+┌──────── 1 100 users, 2 ~96 active ───────┐┌────────────────────────── Latest Interval Stats at 16:24:59 ─────────────────────────┐    ┌─┬─┐
+│oooooooooooooooooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │      │
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.648                  0.0%: 0.340          503:  100.00% (149)│      │   ┌───┐ ┬   ┬ ┬──┐ ┬   ┬ ┌───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.025                 50.0%: 0.654           All: 100.00% (149)│      │   ┌───┤ │   │ │    │   │ └───┐
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.452                 90.0%: 0.768                             │      ┴   └───┴ └───┴ ┴    └───┴ └───┘
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.170                 95.0%: 0.796                             │        | v1.13.6 by BlazeMeter.com |
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.809                             │
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.9%: 0.818                             │JMeter: quick-test
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘Running...
+┌───────── 1 149 hits, 2 149 fail ─────────┐┌────────────────────────────── Cumulative Stats 00:02:21 ─────────────────────────────┐Elapsed: 00:02:23                   ETA: N/A
+│oooooooooooo ooooooooooooooooooooooooooooo││             Average Times:                 Percentiles:              Response Codes: │
+│oooooooooooooooooooooooooooooooooooooooooo││                 Full: 0.435                  0.0%: 0.155         200:  55.69% (17638)│ local
+│oooooooooooooooooooooooooooooooooooooooooo││              Connect: 0.037                 50.0%: 0.409         503:  44.31% (14036)│          mem: 63.800
+│oooooooooooooooooooooooooooooooooooooooooo││              Latency: 0.295                 90.0%: 0.721         All: 100.00% (31674)│  engine-loop: 0.194
+│oooooooooooooooooooooooooooooooooooooooooo││             ~Receive: 0.103                 95.0%: 0.755                             │   disk-write: 2,093,906
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.0%: 0.797                             │   bytes-recv: 686,040
+│oooooooooooooooooooooooooooooooooooooooooo││                                             99.9%: 1.354                             │    disk-read: 0
+└──────────────────────────────────────────┘│                                            100.0%: 1.682                             │
+┌──── 1 0.648 avg time (2 lat, 3 conn) ────┐│ Labels                Hits   Failures   Avg Time                                     │16:22:40 INFO: Waiting for finish...
+│..........................................││http://www.google.com  31674     44.31%      0.435                                    │
+│.oooo.oo.oooo..o........ooooooo...oo...ooo││                                                                                      │
+│oooooooooooooooooooooooooooooooooooooooooo││ Errors:                                                                              │
+│oooooooooooooooooooooooooooooooooooooooooo││14036 of: Service Unavailable                                                         │
+│oooooooooooooooooooooooooooooooooooooooooo││                                                                                      │
+│@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@││                                                                                      │
+└──────────────────────────────────────────┘└──────────────────────────────────────────────────────────────────────────────────────┘
+scenarios:
+  quick-test:
+    requests:
+    - http://www.google.com
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ bzt test.yml
+/Users/vapasi/Seleniumjaggu/APIAutomationRestAussured/test/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.2) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+16:17:50 INFO: Taurus CLI Tool v1.13.6
+16:17:50 INFO: Starting with configs: ['test.yml']
+16:17:50 INFO: No personal config found, creating one at /Users/vapasi/.bzt-rc
+16:17:50 INFO: Configuring...
+16:17:50 INFO: Artifacts dir: /Users/vapasi/Seleniumjaggu/APIAutomationRestAussured/VapsiPerformanceTesing/2019-05-07_16-17-50.370178
+16:17:50 INFO: Preparing...
+16:17:51 INFO: Will install JMeter into /Users/vapasi/.bzt/jmeter-taurus/5.1.1
+16:17:52 INFO: Downloading: https://www-eu.apache.org/dist//jmeter/binaries/apache-jmeter-5.1.1.zip
+100% [===========================================================================================================================================================] Time: 0:04:02
+16:21:55 INFO: Unzipping /var/folders/zw/5_fyky994xl__qpqdc3951m80000gn/T/tmpc51SqY.zip to /Users/vapasi/.bzt/jmeter-taurus/5.1.1
+16:21:58 INFO: Downloading jmeter-plugins-manager-1.3.jar from https://search.maven.org/remotecontent?filepath=kg/apc/jmeter-plugins-manager/1.3/jmeter-plugins-manager-1.3.jar-
+16:22:10 INFO: Downloading cmdrunner-2.2.jar from https://search.maven.org/remotecontent?filepath=kg/apc/cmdrunner/2.2/cmdrunner-2.2.jar=========================] ETA:  0:00:00
+100% [===========================================================================================================================================================] Time: 0:00:12
+16:22:11 INFO: Installing JMeter plugins: jpgc-casutg,jpgc-dummy,jpgc-ffw,jpgc-fifo,jpgc-functions,jpgc-json,jpgc-perfmon,jpgc-prmctl,jpgc-tst
+16:22:40 INFO: Starting...
+16:22:40 INFO: Waiting for results...
+16:22:40 INFO: Waiting for finish...
+16:39:18 WARNING: Please wait for graceful shutdown...
+16:39:18 INFO: Shutting down...
+16:39:19 INFO: Sending Shutdown command to JMeter on port 4445...
+16:39:21 WARNING: Keyboard interrupt
+16:39:21 INFO: Post-processing...
+16:39:22 INFO: Test duration: 0:16:41
+16:39:22 INFO: Samples count: 194227, 90.92% failures
+16:39:22 INFO: Average times: total 0.512, latency 0.419, connect 0.029
+16:39:22 INFO: Percentiles:
+┌───────────────┬───────────────┐
+│ Percentile, % │ Resp. Time, s │
+├───────────────┼───────────────┤
+│           0.0 │         0.155 │
+│          50.0 │         0.519 │
+│          90.0 │         0.674 │
+│          95.0 │         0.731 │
+│          99.0 │         0.809 │
+│          99.9 │         1.061 │
+│         100.0 │         3.312 │
+└───────────────┴───────────────┘
+16:39:22 INFO: Request label stats:
+┌───────────────────────┬────────┬───────┬────────┬─────────────────────┐
+│ label                 │ status │  succ │ avg_rt │ error               │
+├───────────────────────┼────────┼───────┼────────┼─────────────────────┤
+│ http://www.google.com │  FAIL  │ 9.00% │  0.512 │ Service Unavailable │
+└───────────────────────┴────────┴───────┴────────┴─────────────────────┘
+16:39:22 INFO: Artifacts dir: /Users/vapasi/Seleniumjaggu/APIAutomationRestAussured/VapsiPerformanceTesing/2019-05-07_16-17-50.370178
+16:39:22 WARNING: Done performing with code: 1
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ ls
+2019-05-07_16-17-50.370178	jmeter.log			test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ ls -l
+total 16
+drwxr-xr-x  17 vapasi  staff   544 May  7 16:22 2019-05-07_16-17-50.370178
+-rw-r--r--   1 vapasi  staff  2324 May  7 16:22 jmeter.log
+-rw-r--r--   1 vapasi  staff   153 May  7 16:17 test.yml
+(test) in-Vapasi2:VapsiPerformanceTesing vapasi$ cd 2019-05-07_16-17-50.370178/
+(test) in-Vapasi2:2019-05-07_16-17-50.370178 vapasi$ ls
+bzt.log			effective.yml		jmeter-bzt.properties	jmeter.log		kpi.jtl			merged.yml		requests.jmx		test.yml
+effective.json		error.jtl		jmeter.err		jmeter.out		merged.json		modified_requests.jmx	system.properties
+(test) in-Vapasi2:2019-05-07_16-17-50.370178 vapasi$
